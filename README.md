@@ -17,3 +17,7 @@ Melzi v2 board
 - EEPROM_AUTO_INIT
 
 INPUT_SHAPING disabled because the printer would not start, it would freeze on the boot screen (possibly a firmware error?)
+
+RAM: 31.5% (used 5167 bytes from 16384 bytes)
+
+Flash: 98.2% (used 124682 bytes from 126976 bytes)
