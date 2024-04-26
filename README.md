@@ -1,7 +1,7 @@
 # Tronxy-P802MA-Marlin-config
 Tronxy P802MA Marlin config
 
-My config for Tronxy P802MA 3D printer based on Anet A8 config.
+My config for Tronxy P802MA 3D printer, based on Anet A8 config.
 
 Marlin 2.1.2.2
 
